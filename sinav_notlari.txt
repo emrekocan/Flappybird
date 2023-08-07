@@ -1,0 +1,6 @@
+ahmet yılmaz:100,90,80
+mehmet yılmaz:100,100,80
+deniz efe:100,70,90
+çınar turan:100,60,70
+ÇINAR DURAN:150,60,80
+AHMET VELİ:112,3,70
